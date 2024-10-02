@@ -4,12 +4,11 @@
 
 Full-stack developer with expertise in React, Redux, Next.js, Node.js and the MERN stack, as well as mobile application development using React Native and Expo’s routing system. Skilled in building scalable web and mobile applications with seamless user experiences. Proficient in front-end technologies like HTML5, CSS3, Tailwind CSS, and JavaScript, with backend experience in Node.js and RESTful APIs. Focused on creating high-quality, responsive interfaces and optimizing performance, delivering efficient solutions across both web and mobile platforms.
 
-
 <p align="left">
-    <a href="https://www.youtube.com/c/programmersohel?sub_confirmation=1">
+    <a href="https://www.youtube.com/@programmersohel?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCn9ZNfr2GBoM6kwFLILMObQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a>
-    <a href="https://www.youtube.com/c/programmersohel">
+    <a href="https://www.youtube.com/@programmersohel">
         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCn9ZNfr2GBoM6kwFLILMObQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a>
   
